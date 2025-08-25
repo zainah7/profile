@@ -1,0 +1,13 @@
+<svg width="100%" height="100%" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <g filter="url(#blur)">
+    <ellipse cx="720" cy="400" rx="700" ry="300" fill="#7F5AF0" fillOpacity="0.18"/>
+    <ellipse cx="300" cy="700" rx="400" ry="200" fill="#2CB67D" fillOpacity="0.10"/>
+    <ellipse cx="1200" cy="200" rx="300" ry="150" fill="#F15BB5" fillOpacity="0.13"/>
+    <ellipse cx="900" cy="800" rx="200" ry="100" fill="#00C4CC" fillOpacity="0.10"/>
+  </g>
+  <defs>
+    <filter id="blur" x="-100" y="-100" width="1640" height="1100" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="60" />
+    </filter>
+  </defs>
+</svg>
