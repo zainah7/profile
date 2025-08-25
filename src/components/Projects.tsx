@@ -11,8 +11,8 @@ const Projects = () => {
       description: 'A full-featured shopping app built with React Native and Firebase integration',
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600',
       technologies: ['React Native', 'Expo', 'Redux', 'Firebase'],
-      github: 'https://github.com',
-      live: 'https://example.com'
+      github: 'https://github.com/zainah7/profile.git',
+      live: 'https://profile-murex-eight-22.vercel.app/'
     },
     {
       title: 'Task Management Web App',
@@ -41,10 +41,10 @@ const Projects = () => {
     {
       title: 'Portfolio Website',
       description: 'A responsive portfolio website showcasing projects with smooth animations',
-      image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=600',
-      technologies: ['Next.js', 'Framer Motion', 'Tailwind CSS', 'Vercel'],
-      github: 'https://github.com',
-      live: 'https://example.com'
+      image: 'https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=600',
+      technologies: ['Next.js', 'TypeScript', 'Framer Motion', 'Tailwind CSS', 'Vercel'],
+      github: 'https://github.com/zainah7/profile.git',
+      live: 'https://profile-murex-eight-22.vercel.app/'
     },
     {
       title: 'Premium Laundry Service',
